@@ -1,6 +1,5 @@
 # docker-python3-kivy-buildozer
 Docker image to build for Android your Kivy apps in Python 3. Heavily based on [bodolsog/docker-py3-kivy-buildozer](https://github.com/bodolsog/docker-py3-kivy-buildozer).
-To have Buildozer with Python 3 support, we need to use the [Crystax NDK](https://www.crystax.net/android/ndk). It is downloaded during the image build.
 
 ## Usage:
 - You need Docker installed: https://docs.docker.com/install/
