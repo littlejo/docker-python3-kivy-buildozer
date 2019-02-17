@@ -7,7 +7,7 @@ To have Buildozer with Python 3 support, we need to use the [Crystax NDK](https:
 
 - Clone this repository and build the image (it'll take a while):
 ```
-# docker build -t diegodukao/python3-kivy-buildozer .
+# docker build -t littlejo/python3-kivy-buildozer .
 ```
 
 - Go to your project folder and start the container:
